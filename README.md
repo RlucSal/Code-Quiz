@@ -30,7 +30,6 @@ SO THAT I can gauge my progress compared to my peers
 ### Link to deployed application
 
 
-
 ## Credits
 
 https://openai.com/blog/chatgpt
