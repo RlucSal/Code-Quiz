@@ -37,12 +37,10 @@ function startQuiz(e){
 
  //Start the countdown timer
  startTimer();
-
 };
 
 // Display a question based on the index
 function displayQuestion(i) {
-  
  var currentQuestion = questionsArray[i];
  questionsTitle.textContent = currentQuestion.question;
 
@@ -83,8 +81,7 @@ function choiceClick(selectedIndex) {
    displayQuestion(currentQuestionIndex);
   } else {
    // Quiz is finished, implement endQuiz function 
-   endQuiz();
-    
+   endQuiz(); 
   }
 }
 
