@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en-gb">
   <head>
@@ -6,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>Coding Quiz</title>
 
-    <link rel="stylesheet" href="./assets/css/styles.css" />
+    <link rel="stylesheet" href="assets/css/styles.css" />
   </head>
 
   <body>
@@ -38,11 +39,22 @@
           <button id="submit">Submit</button>
         </p>
       </div>
+      <div id="end-time" class="hide">
+        <h2>Time is up!</h2>
+        <p>Your final score is <span id="final-score1"></span>.</p>
+        <p>
+          Enter initials: <input type="text" id="initials1" max="3" />
+          <button id="submit1">Submit</button>
+        </p>
+      </div>
+
 
       <div id="feedback" class="feedback hide"></div>
     </div>
 
-    <script src="./assets/js/questions.js"></script>
-    <script src="./assets/js/logic.js"></script>
+    <script src="assets/js/logic.js"></script>
+
+    <script src="assets/js/questions.js"></script>
+
   </body>
 </html>
