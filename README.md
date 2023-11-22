@@ -23,12 +23,11 @@ SO THAT I can gauge my progress compared to my peers
 4. Finish the 25 questions in the Code Quiz.
 5. Imput your initials and save the score.
    
-
 ### Screenshot
 
 
 ### Link to deployed application
-
+https://rlucsal.github.io/Code-Quiz/
 
 ## Credits
 
