@@ -24,6 +24,10 @@ SO THAT I can gauge my progress compared to my peers
 5. Imput your initials and save the score.
    
 ### Screenshot
+![image](https://github.com/RlucSal/Code-Quiz/assets/145674108/ea91d048-c373-4d7a-b6c2-2e8c8afdce83)
+![image](https://github.com/RlucSal/Code-Quiz/assets/145674108/1872000b-0d11-4c7a-a394-0be3a8f3b7fa)
+![image](https://github.com/RlucSal/Code-Quiz/assets/145674108/ba8c1526-d6e9-4ed5-a1f4-0e220c15feb2)
+![image](https://github.com/RlucSal/Code-Quiz/assets/145674108/ced7d469-69fd-4c6c-a978-29d6418921a1)
 
 
 ### Link to deployed application
